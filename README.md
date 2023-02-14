@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pathumchinthaka0618?tab=repositories](https://github.com/Pathumchinthaka0618?tab=repositories)
 
-- 📫 How to reach me **pathumchinthaka0618@gmail.com**
+- 📫 How to reach me **chinthakapathum0618@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
