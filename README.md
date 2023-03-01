@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋, I'm Pathum chinthaka</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Student at IJSE</h3>
 
 - 🔭 I’m currently working on [MyProfile-web](https://github.com/Pathumchinthaka0618/MyProfile)
 
